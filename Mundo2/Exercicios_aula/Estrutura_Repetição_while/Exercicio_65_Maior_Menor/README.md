@@ -103,12 +103,12 @@ calcula a média aritmética e apresenta os resultados.
 ## 7. Estrutura do exercício
 
     Exercicio_65_Maior_Menor/
-    ├── ex065.py
+    ├── ex09.py
     └── README.md
 
 | Arquivo | Descrição |
 |---|---|
-| ex065.py | Código-fonte comentado do exercício |
+| ex09.py | Código-fonte comentado do exercício |
 | README.md | Documentação técnica do exercício |
 
 ## 8. Como executar
@@ -121,7 +121,7 @@ calcula a média aritmética e apresenta os resultados.
 Acesse a pasta do exercício pelo terminal e execute:
 
 ```bash
-python ex065.py
+python ex09.py
 ```
 
 Informe os números inteiros solicitados pelo programa.
