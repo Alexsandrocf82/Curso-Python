@@ -41,7 +41,7 @@ sentinela.
 ## Como executar
 
 ```bash
-python ex064.py
+python ex08.py
 ```
 
 ## Testes funcionais
