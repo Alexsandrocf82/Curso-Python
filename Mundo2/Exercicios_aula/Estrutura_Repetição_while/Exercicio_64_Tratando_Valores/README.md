@@ -35,7 +35,7 @@ sentinela.
 
 ## Estrutura do projeto
 
-- ex064.py — Código-fonte do exercício.
+- ex08.py — Código-fonte do exercício.
 - README.md — Documentação do exercício.
 
 ## Como executar
